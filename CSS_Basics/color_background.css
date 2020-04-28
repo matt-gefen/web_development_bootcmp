@@ -1,0 +1,18 @@
+h1 {
+  color: #8cedc8;
+  border: rgb(255,100,80) 8px dashed;
+}
+h4 {
+  color: rgba(68,0,100,0.7)
+}
+li {
+  color: #4103fc;
+}
+
+body{
+  background: url(https://images.unsplash.com/photo-1506689205310-0a29c388691c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80);
+  background-repeat:no-repeat;
+  background-size: cover;
+}
+
+/*
